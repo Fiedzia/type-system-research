@@ -23,7 +23,7 @@ are you looking for. PR's with more links to reasearch are welcome.
     Source: https://vimeo.com/74354480
 
 
-3. "**Why do dynamic languages make it difficult to maintain large codebases?**", Eric Lippert 
+3. (opinion, pointing to value of other factors) "**Why do dynamic languages make it difficult to maintain large codebases?**", Eric Lippert 
 
     Conclusion: "it is not merely the dynamic nature of typing that increases the cost of maintaining a large codebase. That alone does increase costs, but that is far from the whole story. I could design you a language that was dynamically typed but also had namespaces, modules, inheritance, libraries, private members, and so on—in fact, C# 4 is such a language—and such a language would be both dynamic and highly suited for programming in the large."
 
