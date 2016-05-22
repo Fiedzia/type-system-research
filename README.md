@@ -1,12 +1,12 @@
 This is small collection of links related to research about static vs dynamic typing.
 
-Main point of this for me is to figure out not "which is better",
-but "does one contribute more then the other to software quality".
+Main point of this for me is to figure out not "*which is better*",
+but "*does one contribute more then the other to software quality*".
 
 Also those materials are really hard to find unless you know what exactly
 are you looking for. PR's with more links to reasearch are welcome.
 
-1. "An experiment about static and dynamic type systems", Stefan Hanenberg
+1. "**An experiment about static and dynamic type systems**", Stefan Hanenberg
     
     Two groups of students implement java parser, one using language with static, another with dynamic type system.
     
@@ -14,7 +14,7 @@ are you looking for. PR's with more links to reasearch are welcome.
     
     Source: https://courses.cs.washington.edu/courses/cse590n/10au/hanenberg-oopsla2010.pdf
 
-2.  "The Unreasonable Effectiveness of Dynamic Typing for Practical Programs", Robert Smallshire
+2.  "**The Unreasonable Effectiveness of Dynamic Typing for Practical Programs**", Robert Smallshire
 
     Anylysis of errors related to static vs dynamic type systems.
 
@@ -23,7 +23,7 @@ are you looking for. PR's with more links to reasearch are welcome.
     Source: https://vimeo.com/74354480
 
 
-3. "Why do dynamic languages make it difficult to maintain large codebases?", Eric Lippert 
+3. "**Why do dynamic languages make it difficult to maintain large codebases?**", Eric Lippert 
 
     Conclusion: "it is not merely the dynamic nature of typing that increases the cost of maintaining a large codebase. That alone does increase costs, but that is far from the whole story. I could design you a language that was dynamically typed but also had namespaces, modules, inheritance, libraries, private members, and so on—in fact, C# 4 is such a language—and such a language would be both dynamic and highly suited for programming in the large."
 
