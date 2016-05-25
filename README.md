@@ -28,3 +28,10 @@ are you looking for. PR's with more links to reasearch are welcome.
     Conclusion: "it is not merely the dynamic nature of typing that increases the cost of maintaining a large codebase. That alone does increase costs, but that is far from the whole story. I could design you a language that was dynamically typed but also had namespaces, modules, inheritance, libraries, private members, and so on—in fact, C# 4 is such a language—and such a language would be both dynamic and highly suited for programming in the large."
 
     Source: http://arstechnica.com/information-technology/2014/06/why-do-dynamic-languages-make-it-difficult-to-maintain-large-codebases/
+
+4. "**Static Typing Where Possible, Dynamic Typing When Needed: The End of the Cold War Between Programming Language**", Erik Meijer and Peter Drayton
+
+    Overview of reasons for which developers want static and dynamic typing.
+
+    Conclusion: "Dealing with uncertain assumptions, dynamism and (unexepected) change is becoming increasingly important in a loosely couple distributed world. Instead of hammering on the differences between dynamically and statically typed languages, we should instead strive for a peaceful integration of static and dynamic
+aspect in the same language. Static typing where possible, dynamic typing when needed!"
